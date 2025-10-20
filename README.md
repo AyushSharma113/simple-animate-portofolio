@@ -86,13 +86,3 @@ simple-animated-portfolio/
 
 ---
 
-### 📬 Contact
-
-If you'd like to connect or have questions:
-
-* Portfolio: [yourdomain.com](https://yourdomain.com)
-* Email: [you@example.com](mailto:you@example.com)
-* LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
